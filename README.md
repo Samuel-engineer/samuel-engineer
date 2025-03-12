@@ -28,7 +28,7 @@
 ---
 
 ## 🛠️ **Compétences**  
-💡 **Langages** : Python, SQL, Java 
+💡 **Langages** : Python, SQL, Java
 📊 **Data Science** : Pandas, NumPy, Matplotlib, Seaborn  
 🤖 **Machine Learning** : TensorFlow, PyTorch, Scikit-learn  
 ☁ **Cloud & DevOps** : AWS, Docker, Kubernetes  
@@ -60,8 +60,8 @@
 
 ## ✨ **Let's Connect!**  
 
-📬 **Email** : [votre-email@example.com](toaly-samuel-boris.tan@efrei.net)  
-🔗 **LinkedIn** : [VotreNom](https://www.linkedin.com/in/samuelb-tan/)  
+📬 **Email** : [toaly-samuel-boris.tan@efrei.net](mailto:toaly-samuel-boris.tan@efrei.net)  
+🔗 **LinkedIn** : [Samuel](https://www.linkedin.com/in/samuelb-tan/)  
 
 ---
 
