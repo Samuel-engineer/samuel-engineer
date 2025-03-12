@@ -28,11 +28,11 @@
 ---
 
 ## 🛠️ **Compétences**  
-💡 **Langages** : Python, SQL, Java
+💡 **Langages** : Python, SQL, Java 
 📊 **Data Science** : Pandas, NumPy, Matplotlib, Seaborn  
 🤖 **Machine Learning** : TensorFlow, PyTorch, Scikit-learn  
 ☁ **Cloud & DevOps** : AWS, Docker, Kubernetes  
-⚙️ **Outils** : Git, VS Code, Linux  
+⚙️ **Outils** : Git, VS Code, Linux , MongoDB, Spark
 
 ---
 
@@ -68,10 +68,5 @@
 ⭐ **Si vous aimez mon travail, pensez à donner un STAR ⭐ sur mes repos !** 🚀✨  
 ---
 
-![GitHub followers](https://img.shields.io/github/followers/Samuel-engineer?style=social)
-![GitHub stars](https://img.shields.io/github/stars/Samuel-engineer?style=social)
-![GitHub repos](https://img.shields.io/github/repo-count/Samuel-engineer?style=social)
-
----
 <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="500"/>
 
