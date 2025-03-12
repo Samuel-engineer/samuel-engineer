@@ -4,13 +4,13 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/votre-nom/">
+  <a href="www.linkedin.com/in/samuelb-tan">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:votre-email@example.com">
+  <a href="toaly-samuel-boris.tan@efrei.net">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-  <a href="https://github.com/votrePseudo?tab=followers">
+  <a href="https://github.com/Samuel-engineer?tab=followers">
     <img src="https://img.shields.io/github/followers/votrePseudo?label=Followers&style=for-the-badge"/>
   </a>
 </p>
@@ -23,12 +23,12 @@
 🌱 J'apprends **MLOps & DevOps**  
 👨‍💻 Passionné par **l'IA, les modèles de Transformers et le Cloud Computing**  
 
-📫 Contactez-moi sur **[LinkedIn](https://www.linkedin.com/in/votre-nom/)**  
+📫 Contactez-moi sur **[LinkedIn](www.linkedin.com/in/samuelb-tan)**  
 
 ---
 
 ## 🛠️ **Compétences**  
-💡 **Langages** : Python, JavaScript, SQL  
+💡 **Langages** : Python, SQL, Java 
 📊 **Data Science** : Pandas, NumPy, Matplotlib, Seaborn  
 🤖 **Machine Learning** : TensorFlow, PyTorch, Scikit-learn  
 ☁ **Cloud & DevOps** : AWS, Docker, Kubernetes  
@@ -47,23 +47,21 @@
 
 ## 🎯 **Mes Projets**  
 
-🌟 **[Image-Document-Classification](https://github.com/votrePseudo/Image-Document-Classification)**  
+🌟 **[Image-Document-Classification](https://github.com/Samuel-engineer/ImageDocumentClassify)**  
 🔹 Classification de documents financiers avec CNN  
 
-🌟 **[Sentiment-Analysis](https://github.com/votrePseudo/Review-Sentiment-Analysis)**  
+🌟 **[Sentiment-Analysis](https://github.com/Samuel-enginner/Review-Sentiment-Analysis)**  
 🔹 Analyse de sentiment sur des commentaires d'internautes  
 
-🌟 **[Credit-Fraud-Detection](https://github.com/votrePseudo/Credit-Fraud-Detection)**  
+🌟 **[Credit-Fraud-Detection](https://github.com/Samuel-engineer/Credit-Fraud-Detection)**  
 🔹 Détection de fraudes sur transactions bancaires  
 
 ---
 
 ## ✨ **Let's Connect!**  
 
-📬 **Email** : [votre-email@example.com](mailto:votre-email@example.com)  
-🐦 **Twitter** : [@votrePseudo](https://twitter.com/votrePseudo)  
-🔗 **LinkedIn** : [VotreNom](https://www.linkedin.com/in/votreNom/)  
-🌍 **Portfolio** : [votre-site.com](https://votre-site.com)  
+📬 **Email** : [votre-email@example.com](toaly-samuel-boris.tan@efrei.net)  
+🔗 **LinkedIn** : [VotreNom](www.linkedin.com/in/samuelb-tan)  
 
 ---
 
