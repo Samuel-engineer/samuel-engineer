@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Samuel-engineer?tab=followers">
-    <img src="https://img.shields.io/github/followers/votrePseudo?label=Followers&style=for-the-badge"/>
+    <img src="https://img.shields.io/github/followers/Samuel-engineer?label=Followers&style=for-the-badge"/>
   </a>
 </p>
 
