@@ -23,7 +23,7 @@
 🌱 J'apprends **MLOps & DevOps**  
 👨‍💻 Passionné par **l'IA, les modèles de Transformers et le Cloud Computing**  
 
-📫 Contactez-moi sur **[LinkedIn](www.linkedin.com/in/samuelb-tan)**  
+📫 Contactez-moi sur **[LinkedIn](https://www.linkedin.com/in/samuelb-tan/)**  
 
 ---
 
@@ -61,7 +61,7 @@
 ## ✨ **Let's Connect!**  
 
 📬 **Email** : [votre-email@example.com](toaly-samuel-boris.tan@efrei.net)  
-🔗 **LinkedIn** : [VotreNom](www.linkedin.com/in/samuelb-tan)  
+🔗 **LinkedIn** : [VotreNom](https://www.linkedin.com/in/samuelb-tan/)  
 
 ---
 
