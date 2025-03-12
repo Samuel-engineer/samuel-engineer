@@ -68,3 +68,8 @@
 ---
 
 ⭐ **Si vous aimez mon travail, pensez à donner un STAR ⭐ sur mes repos !** 🚀✨  
+---
+
+![GitHub followers](https://img.shields.io/github/followers/Samuel-engineer?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Samuel-engineer?style=social)
+![GitHub repos](https://img.shields.io/github/repo-count/Samuel-engineer?style=social)
