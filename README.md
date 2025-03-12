@@ -4,10 +4,10 @@
 </p>
 
 <p align="center">
-  <a href="www.linkedin.com/in/samuelb-tan">
+  <a href="https://www.linkedin.com/in/samuelb-tan/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="toaly-samuel-boris.tan@efrei.net">
+  <a href="mailto:toaly-samuel-boris.tan@efrei.net">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://github.com/Samuel-engineer?tab=followers">
