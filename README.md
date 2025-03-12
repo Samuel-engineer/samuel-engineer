@@ -73,3 +73,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/Samuel-engineer?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Samuel-engineer?style=social)
 ![GitHub repos](https://img.shields.io/github/repo-count/Samuel-engineer?style=social)
+
+<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="500"/>
+
