@@ -37,6 +37,7 @@
 ⚙️ **Cloud & DevOps** : AWS, Azure (Synapse), Docker, Kubernetes
 👨‍💻 **Développement** : Frontend, Backend, Intégration d'API, Streamlit
 🔧 **Outils** : Git, GitHub, VS Code, Linux
+
 ---
 
 ## 📈 **GitHub Stats**  
