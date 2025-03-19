@@ -28,11 +28,13 @@
 ---
 
 ## 🛠️ **Compétences**  
-💡 **Langages** : Python, SQL, Java 
-📊 **Data Science** : Pandas, NumPy, Matplotlib, Seaborn  
-🤖 **Machine Learning** : TensorFlow, PyTorch, Scikit-learn  
-☁ **Cloud & DevOps** : AWS, Docker, Kubernetes  
-⚙️ **Outils** : Git, VS Code, Linux , MongoDB, Spark
+
+💡 **Langages** : Python, SQL, Java  
+📊 **Data Science** : Pandas, NumPy, Matplotlib, Seaborn, Power BI, Plotly  
+🤖 **Machine Learning & IA** : TensorFlow, PyTorch, Scikit-learn  
+🌍 **Big Data & Bases de données** : Cassandra, MongoDB, PostgreSQL, Spark  
+⚙️ **Cloud & DevOps** : AWS, Azure (Synapse), Docker, Kubernetes  
+🔧 **Outils** : Git, GitHub, VS Code, Linux  
 
 ---
 
@@ -45,7 +47,8 @@
 
 ---
 
-## 🎯 **Mes Projets** 
+## 🎯 **Mes Projets**  
+
 **[Liste complète Repository](https://github.com/Samuel-engineer?tab=repositories)**  
 
 🌟 **[Image-Document-Classification](https://github.com/Samuel-engineer/ImageDocumentClassify)**  
@@ -62,12 +65,4 @@
 ## ✨ **Let's Connect!**  
 
 📬 **Email** : [toaly-samuel-boris.tan@efrei.net](mailto:toaly-samuel-boris.tan@efrei.net)  
-🔗 **LinkedIn** : [Samuel](https://www.linkedin.com/in/samuelb-tan/)  
-
----
-
-⭐ **Si vous aimez mon travail, pensez à donner un STAR ⭐ sur mes repos !** 🚀✨  
----
-
-<img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="500"/>
-
+🔗 **LinkedIn** : [Samuel](https://
