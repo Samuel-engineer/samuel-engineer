@@ -19,9 +19,9 @@
 
 ## 🚀 **À propos de moi**  
 
-🔭 Je travaille actuellement sur **Deep Learning & NLP**  
+🔭 Je travaille actuellement sur **Deep Learning, NLP & Retrieval-Augmented Generation (RaG)**  
 🌱 J'apprends **MLOps & DevOps**  
-👨‍💻 Passionné par **l'IA, les modèles de Transformers et le Cloud Computing**  
+👨‍💻 Passionné par **l'IA, les modèles de Transformers, les LLMs (MistralAI, OpenAI) et le Cloud Computing**  
 
 📫 Contactez-moi sur **[LinkedIn](https://www.linkedin.com/in/samuelb-tan/)**  
 
@@ -29,11 +29,13 @@
 
 ## 🛠️ **Compétences**  
 
-💡 **Langages** : Python, SQL, Java  
+💡 **Langages** : Python, SQL, Java, HTML, CSS  
 📊 **Data Science** : Pandas, NumPy, Matplotlib, Seaborn, Power BI, Plotly  
 🤖 **Machine Learning & IA** : TensorFlow, PyTorch, Scikit-learn  
-🌍 **Big Data & Bases de données** : Cassandra, MongoDB, PostgreSQL, Spark  
-⚙️ **Cloud & DevOps** : AWS, Azure (Synapse), Docker, Kubernetes  
+🌍 **Big Data & Bases de données** : Cassandra, MongoDB, PostgreSQL, Spark 
+🔍 **LLMs & RaG** : OpenAI, MistralAI, LangChain
+⚙️ **Cloud & DevOps** : AWS, Azure (Synapse), Docker, Kubernetes
+👨‍💻 **Développement** : Frontend, Backend, Intégration d'API, Streamlit
 🔧 **Outils** : Git, GitHub, VS Code, Linux  
 
 ---
@@ -42,7 +44,7 @@
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Samuel-engineer&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Samuel-engineer&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?username=Samuel-engineer&theme=tokyonight" />
 </p>
 
 ---
