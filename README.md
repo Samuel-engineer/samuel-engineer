@@ -32,7 +32,7 @@
 💡 **Langages** : Python, SQL, Java, HTML, CSS  
 📊 **Data Science** : Pandas, NumPy, Matplotlib, Seaborn, Power BI, Plotly  
 🤖 **Machine Learning & IA** : TensorFlow, PyTorch, Scikit-learn  
-🌍 **Big Data & Bases de données** : Cassandra, MongoDB, PostgreSQL, Spark
+🌍 **Big Data & Bases de données** : Cassandra, MongoDB, PostgreSQL, Spark  
 🔍 **LLMs & RaG** : OpenAI, MistralAI, LangChain  
 ⚙️ **Cloud & DevOps** : AWS, Azure (Synapse), Docker, Kubernetes  
 👨‍💻 **Développement** : Frontend, Backend, Intégration d'API, Streamlit  
