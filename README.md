@@ -21,7 +21,7 @@
 
 🔭 Je travaille actuellement sur **Deep Learning, NLP & Retrieval-Augmented Generation (RaG)**  
 🌱 J'apprends **MLOps & DevOps**  
-👨‍💻 Passionné par **l'IA, les modèles de Transformers, les LLMs (MistralAI, OpenAI) et le Cloud Computing**  
+👨‍💻 Passionné par **l'IA, les modèles de Transformers, les LLMs (MistralAI, OpenAI, Claude) et le Cloud Computing**  
 
 📫 Contactez-moi sur **[LinkedIn](https://www.linkedin.com/in/samuelb-tan/)**  
 
@@ -36,8 +36,7 @@
 🔍 **LLMs & RaG** : OpenAI, MistralAI, LangChain
 ⚙️ **Cloud & DevOps** : AWS, Azure (Synapse), Docker, Kubernetes
 👨‍💻 **Développement** : Frontend, Backend, Intégration d'API, Streamlit
-🔧 **Outils** : Git, GitHub, VS Code, Linux  
-
+🔧 **Outils** : Git, GitHub, VS Code, Linux
 ---
 
 ## 📈 **GitHub Stats**  
