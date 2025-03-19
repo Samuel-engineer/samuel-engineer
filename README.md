@@ -34,7 +34,7 @@
 🤖 **Machine Learning & IA** : TensorFlow, PyTorch, Scikit-learn  
 🌍 **Big Data & Bases de données** : Cassandra, MongoDB, PostgreSQL, Spark  
 🔍 **LLMs & RaG** : OpenAI, MistralAI, LangChain  
-⚙️ **Cloud & DevOps** : AWS, Azure (Synapse), Docker, Kubernetes  
+⚙️ **Cloud & DevOps** : Azure (Synapse, AI), Docker  
 👨‍💻 **Développement** : Frontend, Backend, Intégration d'API, Streamlit  
 🔧 **Outils** : Git, GitHub, VS Code, Linux
 ---
