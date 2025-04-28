@@ -19,7 +19,7 @@
 
 ## 🚀 **À propos de moi**  
 
-Profil :
+**Profil** :
 
 -🔭Solides connaissances en **Machine Learning** et **Deep Learning**.
 
@@ -31,7 +31,7 @@ Profil :
 
 -👨‍💻Très adaptable, avec une forte capacité d'apprentissage rapide et d'adaptation dans des environnements innovants.
 
-📫 Contactez-moi sur **[LinkedIn](https://www.linkedin.com/in/samuelb-tan/)**  
+📫 Contactez-moi par **[mail](mailto:toaly-samuel-boris.tan@efrei.net)  **  
 
 ---
 
