@@ -21,17 +21,17 @@
 
 **Profil** :
 
--🔭Solides connaissances en **Machine Learning** et **Deep Learning**.
+-🔭Bonnes connaissances en **Machine Learning** et **Deep Learning**.
 
 -👨‍💻Bonne maîtrise du Traitement du Langage Naturel (**NLP**) et exploration active des techniques de **Computer Vision**.
 
-- Compréhension approfondie de l'IA générative et des modèles Transformers (**LLMs**).
+-🔭 Compréhension des technologies et concepts de l'IA générative et des modèles Transformers (**LLMs**).
 
 -🌱En cours d'exploration des approches Retrieval-Augmented Generation (RAG) et des solutions de Cloud Computing (Azure, AWS).
 
 -👨‍💻Très adaptable, avec une forte capacité d'apprentissage rapide et d'adaptation dans des environnements innovants.
 
-📫 Contactez-moi par **[mail](mailto:toaly-samuel-boris.tan@efrei.net)  **  
+📫 Contactez-moi par **[mail](mailto:toaly-samuel-boris.tan@efrei.net)**  
 
 ---
 
