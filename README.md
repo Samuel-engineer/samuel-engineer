@@ -19,9 +19,17 @@
 
 ## 🚀 **À propos de moi**  
 
-🔭 Je travaille actuellement sur **Deep Learning, NLP & Retrieval-Augmented Generation (RaG)**  
-🌱 J'apprends **MLOps & DevOps**  
-👨‍💻 Passionné par **l'IA, les modèles de Transformers, les LLMs (MistralAI, OpenAI, Claude) et le Cloud Computing**  
+Profil :
+
+-🔭Solides connaissances en **Machine Learning** et **Deep Learning**.
+
+-👨‍💻Bonne maîtrise du Traitement du Langage Naturel (**NLP**) et exploration active des techniques de **Computer Vision**.
+
+- Compréhension approfondie de l'IA générative et des modèles Transformers (**LLMs**).
+
+-🌱En cours d'exploration des approches Retrieval-Augmented Generation (RAG) et des solutions de Cloud Computing (Azure, AWS).
+
+-👨‍💻Très adaptable, avec une forte capacité d'apprentissage rapide et d'adaptation dans des environnements innovants.
 
 📫 Contactez-moi sur **[LinkedIn](https://www.linkedin.com/in/samuelb-tan/)**  
 
