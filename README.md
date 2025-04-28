@@ -39,38 +39,13 @@
 
 💡 **Langages** : Python, SQL, Java, HTML, CSS  
 📊 **Data Science** : Pandas, NumPy, Matplotlib, Seaborn, Power BI, Plotly  
-🤖 **Machine Learning & IA** : TensorFlow, PyTorch, Scikit-learn, transformers(Hugging Face), NLTK, SpaCy 
+🤖 **Machine Learning & IA** : TensorFlow, PyTorch, Scikit-learn, transformers(Hugging Face), NLTK, SpaCy
 🌍 **Big Data & Bases de données** : Cassandra, MongoDB, PostgreSQL, PySpark  
 🔍 **LLMs & RaG** : OpenAI, MistralAI, LangChain  
 ⚙️ **Cloud & DevOps** : Azure (Synapse, AI), Docker  
 👨‍💻 **Développement** : Frontend, Backend, Intégration d'API, Streamlit  
 🔧 **Outils** : Git, GitHub, VS Code, Linux
 
-📊 Data Science & Visualisation
-Pandas, NumPy, Matplotlib, Seaborn, Plotly, Power BI
-🤖 Machine Learning & Intelligence Artificielle
-TensorFlow, PyTorch, Scikit-learn, Transformers (Hugging Face), NLTK, spaCy
-
-Expertise en Deep Learning, NLP, modèles génératifs, et Fine-tuning de LLMs
-
-🌍 Big Data & Gestion des Bases de Données
-Cassandra, MongoDB, PostgreSQL, PySpark
-Connaissance avancée des environnements Big Data et des bases de données distribuées
-
-🔍 LLMs & RAG (Retrieval Augmented Generation)
-OpenAI, MistralAI, LangChain
-
-Expérience dans l’utilisation et l’optimisation des grands modèles de langage (LLMs) et l'intégration avec des systèmes de récupération d'informations
-
-⚙️ Cloud
-Azure (services AI, Synapse, ML)
-
-👨‍💻 Développement Web & Intégration d’API
-Développement Frontend (HTML, CSS) et Backend (API, bases de données)
-Utilisation de Streamlit pour la création de dashboards interactifs et de prototypes web
-
-🔧 Outils de Développement
-Git, GitHub, VS Code, Linux
 ---
 
 ## 📈 **GitHub Stats**  
