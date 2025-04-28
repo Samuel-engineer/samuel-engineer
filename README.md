@@ -38,10 +38,10 @@
 ## 🛠️ **Compétences**  
 
 💡 **Langages** : Python, SQL, Java, HTML, CSS  
-📊 **Data Science** : Pandas, NumPy, Matplotlib, Seaborn, Power BI, Plotly  
-🤖 **Machine Learning & IA** : TensorFlow, PyTorch, Scikit-learn, transformers(Hugging Face), NLTK, SpaCy
-🌍 **Big Data & Bases de données** : Cassandra, MongoDB, PostgreSQL, PySpark  
-🔍 **LLMs & RaG** : OpenAI, MistralAI, LangChain  
+📊 **Data Science** : Pandas, NumPy, Matplotlib, Seaborn, Plotly, Power BI
+🤖 **Machine Learning & IA** : TensorFlow, PyTorch, Scikit-learn, Transformers(Hugging Face), NLTK, SpaCy
+🌍 **Big Data & Bases de données** : Cassandra, MongoDB, PostgreSQL, PySpark
+🔍 **LLMs & RaG** : LangChain, OpenAI, MistralAI,...  
 ⚙️ **Cloud & DevOps** : Azure (Synapse, AI), Docker  
 👨‍💻 **Développement** : Frontend, Backend, Intégration d'API, Streamlit  
 🔧 **Outils** : Git, GitHub, VS Code, Linux
