@@ -23,7 +23,7 @@
 
 -🔭Bonnes connaissances en **Machine Learning** et **Deep Learning**.
 
--👨‍💻Bonne maîtrise du Traitement du Langage Naturel (**NLP**) et exploration active des techniques de **Computer Vision**.
+-👨‍💻Bonnes connaissances du Traitement du Langage Naturel (**NLP**) et exploration active des techniques de **Computer Vision**.
 
 -🔭 Compréhension des technologies et concepts de l'IA générative et des modèles Transformers (**LLMs**).
 
