@@ -19,11 +19,15 @@
 
 ## 🚀 **À propos de moi**  
 
-**Profil** :
+**Profil ** :  
+En formation Ingénieur
+**Domaine d'étude Data Science, Big Data, Intelligence Artificielle** 
 
--🔭Bonnes connaissances en **Machine Learning** et **Deep Learning**.
+-🔭Bonnes connaissances en **Machine Learning** et **Deep Learning** et en analyse de la donnée.
 
--👨‍💻Exploration du Traitement du Langage Naturel (**NLP**) et des techniques de **Computer Vision**.
+-👨‍💻Exploration du Traitement du Langage Naturel (**NLP**) et des techniques de **Computer Vision**. 
+
+-🛠️Connaissance et Exploitation de quelques outils Big Data
 
 -🔭 Compréhension des technologies et concepts de l'IA générative et des modèles Transformers (**LLMs**).
 
@@ -31,7 +35,7 @@
 
 -👨‍💻Très adaptable, avec une forte capacité d'apprentissage rapide et d'adaptation dans des environnements innovants.
 
-**Si vous recherchez une personne motivée, disciplinée, travailleuse 
+**Si vous recherchez une personne motivée, disciplinée, travailleuse, polyvalente
 et avec qui il est agréable de collaborer et de partager de bons moments, Ne cherchez pas plus loin.**
 
 📫 Contactez-moi par **[mail](mailto:toaly-samuel-boris.tan@efrei.net)**  
