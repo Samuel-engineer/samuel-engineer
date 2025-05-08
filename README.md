@@ -64,15 +64,15 @@ et avec qui il est agréable de collaborer et de partager de bons moments, Ne ch
 
 ---
 
-## 🎯 **Mes Projets**  
+## 🎯 **Mes Projets et TP **  
 
-**[Liste complète Repository](https://github.com/Samuel-engineer?tab=repositories)**  
+  **[Liste complète Repository](https://github.com/Samuel-engineer?tab=repositories)**
+
+🌟 **[Instacart Market Analysis](https://github.com/Samuel-engineer/Market-Basket-Analysis)**  
+🔹 Classification de documents financiers avec CNN
 
 🌟 **[Image-Document-Classification](https://github.com/Samuel-engineer/ImageDocumentClassify)**  
 🔹 Classification de documents financiers avec CNN  
-
-🌟 **[Sentiment-Analysis](https://github.com/Samuel-enginner/Review-Sentiment-Analysis)**  
-🔹 Analyse de sentiment sur des commentaires d'internautes  
 
 🌟 **[Credit-Fraud-Detection](https://github.com/Samuel-engineer/Credit-Fraud-Detection)**  
 🔹 Détection de fraudes sur transactions bancaires  
