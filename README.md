@@ -64,7 +64,7 @@ et avec qui il est agréable de collaborer et de partager de bons moments, Ne ch
 
 ---
 
-## 🎯 **Mes Projets et TP **  
+## 🎯 **Mes Projets et TP**  
 
   **[Liste complète Repository](https://github.com/Samuel-engineer?tab=repositories)**
 
