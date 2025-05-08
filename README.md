@@ -69,7 +69,7 @@ et avec qui il est agréable de collaborer et de partager de bons moments, Ne ch
   **[Liste complète Repository](https://github.com/Samuel-engineer?tab=repositories)**
 
 🌟 **[Instacart Market Analysis](https://github.com/Samuel-engineer/Market-Basket-Analysis)**  
-🔹 Classification de documents financiers avec CNN
+🔹 Exploration et analyse des comportements d'achat des clients d'Instacart
 
 🌟 **[Image-Document-Classification](https://github.com/Samuel-engineer/ImageDocumentClassify)**  
 🔹 Classification de documents financiers avec CNN  
