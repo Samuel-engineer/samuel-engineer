@@ -55,15 +55,6 @@ et avec qui il est agréable de collaborer et de partager de bons moments, Ne ch
 
 ---
 
-## 📈 **GitHub Stats**  
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Samuel-engineer&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Samuel-engineer&theme=tokyonight" />
-</p>
-
----
-
 ## 🎯 **Mes Projets et TP**  
 
   **[Liste complète Repository](https://github.com/Samuel-engineer?tab=repositories)**
