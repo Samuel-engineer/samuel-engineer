@@ -36,7 +36,7 @@ En formation Ingénieur
 -👨‍💻Très adaptable, avec une forte capacité d'apprentissage rapide et d'adaptation dans des environnements innovants.
 
 **Si vous recherchez une personne motivée, disciplinée, travailleuse, polyvalente
-et avec qui il est agréable de collaborer et de partager de bons moments, Ne cherchez pas plus loin.**
+et avec qui il est agréable de collaborer et de partager de bons moments, Ne cherchez pas plus loin.😁**
 
 📫 Contactez-moi par **[mail](mailto:toaly-samuel-boris.tan@efrei.net)**  
 
