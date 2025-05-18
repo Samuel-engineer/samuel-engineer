@@ -31,7 +31,7 @@ En formation Ingénieur
 
 -🔭 Compréhension des technologies et concepts de l'IA générative et des modèles Transformers (**LLMs**).
 
--🌱En cours d'exploration des approches Retrieval-Augmented Generation (RAG) et des solutions de Cloud Computing (Azure, AWS).
+-🌱Exploration des solutions de Cloud Computing (Azure, AWS) et approches Retrieval-Augmented Generation (RAG).
 
 -👨‍💻Très adaptable, avec une forte capacité d'apprentissage rapide et d'adaptation dans des environnements innovants.
 
