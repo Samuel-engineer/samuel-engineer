@@ -25,13 +25,13 @@ En formation Ingénieur
 
 -🔭Bonnes connaissances en **Machine Learning** et **Deep Learning** et en analyse de la donnée.
 
--👨‍💻Exploration du Traitement du Langage Naturel (**NLP**) et des techniques de **Computer Vision**. 
-
 -🛠️Connaissance et Exploitation de quelques outils Big Data
 
--🔭 Compréhension des technologies et concepts de l'IA générative et des modèles Transformers (**LLMs**).
+-🔭 Compréhension des technologies et concepts de l'IA générative et des modèles Transformers (**LLMs**).  
 
--🌱Exploration des solutions de Cloud Computing (Azure, AWS) et approches Retrieval-Augmented Generation (RAG).
+-👨‍💻Exploration du Traitement du Langage Naturel (**NLP**) et des techniques de **Computer Vision**.  
+
+-🌱Exploration des solutions de Cloud Computing (Azure, AWS) et approches Retrieval-Augmented Generation (RAG). 
 
 -👨‍💻Très adaptable, avec une forte capacité d'apprentissage rapide et d'adaptation dans des environnements innovants.
 
