@@ -58,6 +58,9 @@ et avec qui il est agréable de collaborer et de partager de bons moments, Ne ch
 ## 🎯 **Mes Projets et TP**  
 
   **[Liste complète Repository](https://github.com/Samuel-engineer?tab=repositories)**
+  
+🌟 **[Travail d'Analyse complet et Insights (Machine Learning)](https://github.com/Samuel-engineer/Analyse-Exploratoire-et-Machine-Learning)**  
+🔹 Exploration et analyse des comportements dans l'adoption des bus électriques
 
 🌟 **[Instacart Market Analysis](https://github.com/Samuel-engineer/Market-Basket-Analysis)**  
 🔹 Exploration et analyse des comportements d'achat des clients d'Instacart
