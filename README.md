@@ -62,8 +62,8 @@ et avec qui il est agréable de collaborer et de partager de bons moments, Ne ch
 🌟 **[Travail d'Analyse complet et Insights (Machine Learning)](https://github.com/Samuel-engineer/Analyse-Exploratoire-et-Machine-Learning)**  
 🔹 Exploration et analyse des comportements dans l'adoption des bus électriques
 
-🌟 **[Instacart Market Analysis](https://github.com/Samuel-engineer/Market-Basket-Analysis)**  
-🔹 Exploration et analyse des comportements d'achat des clients d'Instacart
+🌟 **[Plateforme RAG](https://github.com/Samuel-engineer/challenge-AI-RAG)**  
+🔹 Plateforme question-answering via RAG 
 
 🌟 **[Image-Document-Classification](https://github.com/Samuel-engineer/ImageDocumentClassify)**  
 🔹 Classification de documents financiers avec CNN  
