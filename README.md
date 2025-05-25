@@ -20,7 +20,7 @@
 ## 🚀 **À propos de moi**  
 
 **Profil** :  
-En formation Ingénieur  
+En formation Ingénieur (actuellement en Bac+4)  
 **Domaine d'étude Data Science, Big Data, Intelligence Artificielle** 
 
 -🔭Bonnes connaissances en **Machine Learning** et **Deep Learning** et en analyse de la donnée.
