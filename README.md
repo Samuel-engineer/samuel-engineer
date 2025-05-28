@@ -62,6 +62,9 @@ et avec qui il est agréable de collaborer et de partager de bons moments, Ne ch
 🌟 **[Travail d'Analyse complet et Insights (Machine Learning)](https://github.com/Samuel-engineer/Analyse-Exploratoire-et-Machine-Learning)**  
 🔹 Exploration et analyse des comportements dans l'adoption des bus électriques
 
+🌟 **[Classification de mail](https://github.com/Samuel-engineer/Text-Mail-Classifcation-NLP)**  
+🔹 Modèle et app pour la classification de mail en catégories prédéfinies (En cours)
+
 🌟 **[Plateforme RAG](https://github.com/Samuel-engineer/challenge-AI-RAG)**  
 🔹 Plateforme question-answering via RAG 
 
