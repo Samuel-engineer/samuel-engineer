@@ -69,7 +69,7 @@ et avec qui il est agréable de collaborer et de partager de bons moments, Ne ch
 🔹 Plateforme question-answering via RAG 
 
 🌟 **[Image-Document-Classification](https://github.com/Samuel-engineer/ImageDocumentClassify)**  
-🔹 Classification de documents financiers avec CNN  
+🔹 Classification de documents financiers  
 
 🌟 **[Credit-Fraud-Detection](https://github.com/Samuel-engineer/Credit-Fraud-Detection)**  
 🔹 Détection de fraudes sur transactions bancaires  
