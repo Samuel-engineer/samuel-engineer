@@ -31,18 +31,17 @@ En formation Ingénieur (actuellement en Bac+4)
 
 -👨‍💻Exploration du Traitement du Langage Naturel (**NLP**) et des techniques de **Computer Vision**.  
 
--🌱Exploration des solutions de Cloud Computing (Azure, AWS) et approches Retrieval-Augmented Generation (RAG). 
+-🌱Exploration des solutions de Cloud Computing (Azure)
 
--👨‍💻Très adaptable, avec une forte capacité d'apprentissage rapide et d'adaptation dans des environnements innovants.
+-👨‍💻Très adaptable, avec une capacité d'apprentissage rapide et d'adaptation.
 
-**Si vous recherchez une personne motivée, disciplinée, travailleuse, polyvalente
-et avec qui il est agréable de collaborer et de partager de bons moments, Ne cherchez pas plus loin.😁**
+**Si vous recherchez une personne motivée, et avec qui il est facile de collaborer, Ne cherchez pas plus loin.**
 
 📫 Contactez-moi par **[mail](mailto:toaly-samuel-boris.tan@efrei.net)**  
 
 ---
 
-## 🛠️ **Compétences**  
+## 🛠️ **Compétences**  (Acquise et en acquisition)
 
 💡 **Langages** : Python, SQL, Java, HTML, CSS  
 📊 **Data Science** : Pandas, NumPy, Matplotlib, Seaborn, Plotly, Power BI  
