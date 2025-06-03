@@ -23,17 +23,17 @@
 En formation Ingénieur (actuellement en Bac+4)  
 **Domaine d'étude Data Science, Big Data, Intelligence Artificielle** 
 
--🔭Bonnes connaissances en **Machine Learning** et **Deep Learning** et en analyse de la donnée.
+-🔭Bonnes connaissances en **Machine Learning** et **Deep Learning** et en traitement de la donnée.
 
--🛠️Connaissance et Exploitation de quelques outils Big Data
+-🛠️ Connaissance et Exploitation de quelques outils Big Data
 
 -🔭 Compréhension des technologies et concepts de l'IA générative et des modèles Transformers (**LLMs**).  
 
--👨‍💻Exploration du Traitement du Langage Naturel (**NLP**) et des techniques de **Computer Vision**.  
+-👨‍💻 Exploration du Traitement du Langage Naturel (**NLP**) et des techniques de **Computer Vision**.  
 
--🌱Exploration des solutions de Cloud Computing (Azure)
+-🌱 Des connaissances Azure (Certifié AI 900)
 
--👨‍💻Très adaptable, avec une capacité d'apprentissage rapide et d'adaptation.
+-👨‍💻 Très adaptable, avec une capacité d'apprentissage rapide et d'adaptation.
 
 **Si vous recherchez une personne motivée, et avec qui il est facile de collaborer, Ne cherchez pas plus loin.**
 
