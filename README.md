@@ -43,14 +43,14 @@ En formation Ingénieur (actuellement en Bac+4)
 
 ## 🛠️ **Compétences**  (Acquise et en acquisition)
 
-💡 **Langages** : Python, SQL, Java, HTML, CSS  
+💡 **Langages** : Python, SQL
 📊 **Data Science** : Pandas, NumPy, Matplotlib, Seaborn, Plotly, Power BI  
 🤖 **Machine Learning & IA** : TensorFlow, PyTorch, Scikit-learn, Transformers(Hugging Face), NLTK, SpaCy  
 🌍 **Big Data & Bases de données** : Cassandra, MongoDB, PostgreSQL, PySpark   
 🔍 **LLMs & RaG** : LangChain, OpenAI, MistralAI,...  
 ⚙️ **Cloud & DevOps** : Azure (Synapse, AI), Docker  
-👨‍💻 **Développement** : Frontend, Backend, Intégration d'API, Streamlit  
-🔧 **Outils** : Git, GitHub, VS Code, Linux
+👨‍💻 **Développement** : Intégration d'API, Streamlit  
+🔧 **Outils** : Git, GitHub, VSCode
 
 ---
 
