@@ -33,7 +33,7 @@ En formation Ingénieur (actuellement en Bac+4)
 
 -🌱 Des connaissances Azure (Certifié AI 900)
 
--👨‍💻 Très adaptable, avec une capacité d'apprentissage rapide et d'adaptation.
+-👨‍💻 Très adaptable, avec une capacité d'apprentissage rapide.
 
 **Si vous recherchez une personne motivée, et avec qui il est facile de collaborer, Ne cherchez pas plus loin.**
 
