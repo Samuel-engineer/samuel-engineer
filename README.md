@@ -41,7 +41,7 @@ En formation Ingénieur (actuellement en Bac+4)
 
 ---
 
-## 🛠️ **Compétences**  (Acquise ou en acquisition)
+## 🛠️ **Compétences**  (Acquises ou en acquisition)
 
 💡 **Langages** : Python, SQL
 📊 **Data Science** : Pandas, NumPy, Matplotlib, Seaborn, Plotly, Power BI  
