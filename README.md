@@ -31,7 +31,7 @@ En formation Ingénieur (actuellement en Bac+4)
 
 -👨‍💻 Exploration du Traitement du Langage Naturel (**NLP**) et des techniques de **Computer Vision**.  
 
--🌱 Des connaissances Azure (Certifié AI 900)
+-🌱 Des connaissances IA et solutions Azure (Certifié AI 900)
 
 -👨‍💻 Très adaptable, avec une capacité d'apprentissage rapide.
 
