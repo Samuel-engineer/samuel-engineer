@@ -57,6 +57,9 @@ En formation Ingénieur (actuellement en Bac+4)
 ## 🎯 **Mes Projets et TP**  
 
   **[Liste complète Repository](https://github.com/Samuel-engineer?tab=repositories)**
+
+🌟 **[Document Summarization-Fine tuning du transformers Bart](https://github.com/Samuel-engineer/Document-Summarization_Fine-tuning-Bart)**  
+🔹   Résumé de documents principalement en format pdf 
   
 🌟 **[Travail d'Analyse complet et Insights (Machine Learning)](https://github.com/Samuel-engineer/Analyse-Exploratoire-et-Machine-Learning)**  
 🔹 Exploration et analyse des comportements dans l'adoption des bus électriques
