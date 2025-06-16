@@ -82,8 +82,3 @@ En formation Ingénieur (actuellement en Bac+4)
 
 📬 **Email** : [toaly-samuel-boris.tan@efrei.net](mailto:toaly-samuel-boris.tan@efrei.net)  
 🔗 **LinkedIn** : [Samuel](https://www.linkedin.com/in/samuelb-tan/)  
-
----
-
-⭐ **Si vous aimez mon travail, pensez à donner un STAR ⭐ sur mes repos !** 🚀✨  
----
