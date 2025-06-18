@@ -58,7 +58,7 @@ En formation Ingénieur | Recherche **Stage** de 2 à 4 mois à partir de juin *
 
   **[Liste complète Repository](https://github.com/Samuel-engineer?tab=repositories)**
   
-🌟 **[simple_to_advanced-Regression](https://github.com/Samuel-engineer/simple_to_advanced-Regression)**  
+🌟 **[Simple_to_advanced-Regression](https://github.com/Samuel-engineer/simple_to_advanced-Regression)**  
 🔹   Prédiction des prix de ventes de maison avec présentation des outils de régression du simple aux avancées 
 
 🌟 **[Document Summarization-Fine tuning du transformers Bart](https://github.com/Samuel-engineer/Document-Summarization_Fine-tuning-Bart)**  
