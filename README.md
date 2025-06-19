@@ -20,7 +20,7 @@
 ## 🚀 **À propos de moi**  
 
 **Profil** :  
-En formation Ingénieur | Recherche **Stage** de 2 à 4 mois à partir de juin **et** **alternance** 12 mois à partir de septembre ou Octobre  
+En formation Ingénieur | Recherche **Stage** de 2 à 6 mois à partir de juin **et** **alternance** 12 mois à partir de septembre ou Octobre  
 **Domaine d'étude Data Science, Big Data, Intelligence Artificielle** 
 
 -🔭Bonnes connaissances en **Machine Learning** et **Deep Learning** et en traitement de la donnée.
