@@ -33,9 +33,6 @@ En formation Ingénieur | Recherche **Stage** de 2 à 6 mois à partir de juin *
 
 -🌱 Des connaissances IA et solutions Azure (Certifié AI 900)
 
--👨‍💻 Très adaptable, avec une capacité d'apprentissage rapide.
-
-**Si vous recherchez une personne motivée, et avec qui il est facile de collaborer, Ne cherchez pas plus loin.**
 
 📫 Contactez-moi par **[mail](mailto:toaly-samuel-boris.tan@efrei.net)**  
 
