@@ -51,33 +51,6 @@ En formation Ingénieur | Recherche **Stage** de 2 à 4 mois à partir de juin *
 
 ---
 
-## 🎯 **Mes Projets et TP**  
-
-  **[Liste complète Repository](https://github.com/Samuel-engineer?tab=repositories)**
-  
-🌟 **[Simple_to_advanced-Regression](https://github.com/Samuel-engineer/simple_to_advanced-Regression)**  
-🔹   Prédiction des prix de ventes de maison avec présentation des outils de régression du simple aux avancées 
-
-🌟 **[Document Summarization-Fine tuning du transformers Bart](https://github.com/Samuel-engineer/Document-Summarization_Fine-tuning-Bart)**  
-🔹   Résumé de documents principalement en format pdf 
-  
-🌟 **[Travail d'Analyse complet et Insights (Machine Learning)](https://github.com/Samuel-engineer/Analyse-Exploratoire-et-Machine-Learning)**  
-🔹 Exploration et analyse des comportements dans l'adoption des bus électriques
-
-🌟 **[Classification de mail](https://github.com/Samuel-engineer/Text-Mail-Classifcation-NLP)**  
-🔹 Modèle et app pour la classification de mail en catégories prédéfinies (En cours)
-
-🌟 **[Plateforme RAG](https://github.com/Samuel-engineer/challenge-AI-RAG)**  
-🔹 Plateforme question-answering via RAG 
-
-🌟 **[Image-Document-Classification](https://github.com/Samuel-engineer/ImageDocumentClassify)**  
-🔹 Classification de documents financiers   
-
-🌟 **[Credit-Fraud-Detection](https://github.com/Samuel-engineer/Credit-Fraud-Detection)**  
-🔹 Détection de fraudes sur transactions bancaires  
-
----
-
 ## ✨ **Let's Connect!**  
 
 📬 **Email** : [toaly-samuel-boris.tan@efrei.net](mailto:toaly-samuel-boris.tan@efrei.net)  
