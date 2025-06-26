@@ -47,7 +47,7 @@ Recherche **Stage** de 2 à 4 mois à partir de juin **et** **alternance** 12 mo
 🔍 **LLMs & RaG** : LangChain, OpenAI, MistralAI,...  
 ⚙️ **Cloud & DevOps** : MS Azure , Docker  
 👨‍💻 **Développement** : Intégration d'API, Streamlit  
-🔧 **Outils** : Git, GitHub, VSCodem Jupyter
+🔧 **Outils** : Git, GitHub, VSCode, Jupyter
 
 ---
 
