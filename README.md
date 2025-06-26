@@ -20,8 +20,8 @@
 ## 🚀 **À propos de moi**  
 
 **Profil** :  
-En formation Ingénieur | Recherche **Stage** de 2 à 4 mois à partir de juin **et** **alternance** 12 mois à partir de septembre ou Octobre  
-**Domaine d'étude Data Science, Big Data, Intelligence Artificielle** 
+Formation en école d'ingénieur Informatique | **Spécialité d'étude Data Science, Big Data, Intelligence Artificielle**   
+Recherche **Stage** de 2 à 4 mois à partir de juin **et** **alternance** 12 mois à partir de septembre ou Octobre 
 
 -🔭Bonnes connaissances en **Machine Learning** et **Deep Learning** et en traitement de la donnée.
 
@@ -45,7 +45,7 @@ En formation Ingénieur | Recherche **Stage** de 2 à 4 mois à partir de juin *
 🤖 **Machine Learning & IA** : TensorFlow, PyTorch, Scikit-learn, Transformers(Hugging Face), NLTK, SpaCy  
 🌍 **Big Data & Bases de données** : Cassandra, MongoDB, PostgreSQL, PySpark   
 🔍 **LLMs & RaG** : LangChain, OpenAI, MistralAI,...  
-⚙️ **Cloud & DevOps** : Azure (Synapse, AI), Docker  
+⚙️ **Cloud & DevOps** : MS Azure , Docker  
 👨‍💻 **Développement** : Intégration d'API, Streamlit  
 🔧 **Outils** : Git, GitHub, VSCodem Jupyter
 
