@@ -47,7 +47,7 @@ En formation Ingénieur | Recherche **Stage** de 2 à 4 mois à partir de juin *
 🔍 **LLMs & RaG** : LangChain, OpenAI, MistralAI,...  
 ⚙️ **Cloud & DevOps** : Azure (Synapse, AI), Docker  
 👨‍💻 **Développement** : Intégration d'API, Streamlit  
-🔧 **Outils** : Git, GitHub, VSCode
+🔧 **Outils** : Git, GitHub, VSCodem Jupyter
 
 ---
 
