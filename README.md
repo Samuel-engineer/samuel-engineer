@@ -34,8 +34,6 @@ Recherche **Stage** de 2 à 4 mois à partir de juin **et** **alternance** 12 mo
 -🌱 Des connaissances IA et solutions Azure (Certifié AI 900)
 
 
-📫 Contactez-moi par **[mail](mailto:toaly-samuel-boris.tan@efrei.net)**  
-
 ---
 
 ## 🛠️ **Compétences**  (Acquises ou en acquisition)
