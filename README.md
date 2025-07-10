@@ -21,7 +21,6 @@
 
 **Profil** :  
 Formation en école d'ingénieur Informatique | **Spécialité d'étude Data Science, Big Data, Intelligence Artificielle**   
-Recherche **Stage** de 2 à 4 mois à partir de juin **et** **alternance** 12 mois à partir de septembre ou Octobre 
 
 -🔭Bonnes connaissances en **Machine Learning** et **Deep Learning** et en traitement de la donnée.
 
