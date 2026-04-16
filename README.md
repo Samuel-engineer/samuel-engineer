@@ -18,7 +18,7 @@
 
 ## 🧐 À propos de moi
 
-Actuellement en dernière année d'ingénierie **Big Data & Machine Learning à l'Efrei Paris** et en alternance chez **SNCF**. Je combine un solide bagage en ingénierie logicielle avec une expertise pointue en Intelligence Artificielle. 
+Actuellement en dernière année d'ingénierie **Big Data & Machine Learning à l'Efrei Paris** et en alternance chez **SNCF**. Je combine un solide bagage en ingénierie logicielle avec une expertise en Intelligence Artificielle. 
 
 Habitué à manipuler des modèles sous fortes contraintes de ressources, **mon objectif est de concevoir, d'automatiser et de déployer des architectures IA scalables dans le Cloud (MLOps).**
 
