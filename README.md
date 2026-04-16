@@ -1,6 +1,6 @@
 # Hello, I'm Samuel TAN 🚀
 
-### 👨‍💻 AI & ML Engineer | MLOps & Cloud Deployment (Azure / AWS)
+### 👨‍💻 AI & ML Engineer | MLOps, GENAI & Cloud Deployment (Azure / AWS)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelb-tan)
 [![Azure DP-100](https://img.shields.io/badge/Certifi%C3%A9-Azure_DP--100_(Data_Scientist)-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#)
