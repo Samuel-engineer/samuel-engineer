@@ -1,18 +1,26 @@
-# Hello, I'm Samuel TAN 🚀
+<div align="center">
+  <h1>Hello, I'm Samuel TAN 🚀</h1>
+  <h3>👨‍💻 ML & GenAI Engineer | MLOps & Cloud Deployment</h3>
+  <p><em>« An ML model in a notebook is a hypothesis. An ML model in production is a solution. »</em></p>
 
-### 👨‍💻 AI & ML Engineer | MLOps, GENAI & Cloud Deployment (Azure / AWS)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelb-tan)
-[![Azure DP-100](https://img.shields.io/badge/Certifi%C3%A9-Azure_DP--100_(Data_Scientist)-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#)
-[![Azure AI-900](https://img.shields.io/badge/Certifi%C3%A9-Azure_AI--900-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#)
+  <a href="https://www.linkedin.com/in/samuelb-tan">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Azure_DP--100-(Data_Scientist)-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure DP-100" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Azure_AI--900-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure AI-900" />
+  </a>
+</div>
 
 ---
 
 ## 🧐 À propos de moi
 
-Actuellement en dernière année d'ingénierie **Big Data & Machine Learning à l'Efrei Paris** et en alternance chez **SNCF**. Je combine un solide bagage en ingénierie logicielle (algorithmique, architecture) avec une expertise pointue en Intelligence Artificielle. 
+Actuellement en dernière année d'ingénierie **Big Data & Machine Learning à l'Efrei Paris** et en alternance chez **SNCF**. Je combine un solide bagage en ingénierie logicielle avec une expertise pointue en Intelligence Artificielle. 
 
-Habitué à manipuler des modèles sous fortes contraintes de ressources matérielles, **mon objectif est aujourd'hui de concevoir, d'automatiser et de déployer des architectures IA scalables dans le Cloud (MLOps).**
+Habitué à manipuler des modèles sous fortes contraintes de ressources, **mon objectif est de concevoir, d'automatiser et de déployer des architectures IA scalables dans le Cloud (MLOps).**
 
 - 🎯 **Recherche :** Opportunité en tant que Junior AI/ML Engineer orienté production et Cloud (AWS / Azure).
 - ☁️ **Focus Actuel :** Préparation de la certification *AWS GenAI Developer Pro*, conteneurisation (Docker) et déploiement d'API.
@@ -36,13 +44,13 @@ Habitué à manipuler des modèles sous fortes contraintes de ressources matéri
 
 ## 🛠️ Stack Technique & MLOps
 
-| Domaine | Technologies |
-| :--- | :--- |
-| **Langages** | ![Python](https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat&logo=postgresql&logoColor=white) |
-| **Machine & Deep Learning** | `PyTorch` `TensorFlow` `Scikit-Learn` `Pandas` `PySpark` |
-| **GenAI & NLP** | `Hugging Face` `LangChain` `LLMs` `NLTK` `SpaCy` |
-| **Cloud & MLOps** | `Microsoft Azure (ML Workspace)` `AWS` `Docker` `FastAPI` |
-| **Outils & Data** | `Git/GitHub` `MongoDB` `PostgreSQL` `PowerBI` |
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,aws,azure,docker,fastapi,postgres,mongodb,git,github&perline=6" alt="Tech Stack" />
+  </a>
+  <br>
+  <p><i>NLP, Computer Vision, LLMs (Hugging Face, LangChain), PySpark, CI/CD</i></p>
+</div>
 
 ---
 
@@ -53,7 +61,7 @@ Habitué à manipuler des modèles sous fortes contraintes de ressources matéri
 - **Tech :** AWS, LLMs, Python
 
 ### 💳 [Détection de Fraude Bancaire (Vers la Production)](https://github.com/samuel-engineer/Credit-Fraud-Detection)
-*Modélisation prédictive sur des données financières déséquilibrées. (Projet en cours d'évolution vers une architecture MLOps avec API et conteneurisation).*
+*Modélisation prédictive sur des données financières déséquilibrées. (En cours d'évolution vers une architecture MLOps).*
 - **Tech :** Machine Learning, Python, Scikit-Learn
 
 ### 📝 [NLP : Classification de Mails & Textes](https://github.com/samuel-engineer/Text-Mail-Classifcation-NLP)
@@ -69,7 +77,8 @@ Habitué à manipuler des modèles sous fortes contraintes de ressources matéri
 ## 📈 Statistiques GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuel-engineer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=samuel-engineer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-engineer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" alt="Top Languages" />
 </div>
 
 ---
