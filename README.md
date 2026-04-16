@@ -12,21 +12,25 @@
 
 Actuellement en dernière année d'ingénierie **Big Data & Machine Learning à l'Efrei Paris** et en alternance chez **SNCF**. Je combine un solide bagage en ingénierie logicielle (algorithmique, architecture) avec une expertise pointue en Intelligence Artificielle. 
 
-Habitué à manipuler des modèles sous fortes contraintes de ressources matérielles (Edge AI), **mon objectif est aujourd'hui de concevoir, d'automatiser et de déployer des architectures IA scalables dans le Cloud (MLOps).**
+Habitué à manipuler des modèles sous fortes contraintes de ressources matérielles, **mon objectif est aujourd'hui de concevoir, d'automatiser et de déployer des architectures IA scalables dans le Cloud (MLOps).**
 
 - 🎯 **Recherche :** Opportunité en tant que Junior AI/ML Engineer orienté production et Cloud (AWS / Azure).
 - ☁️ **Focus Actuel :** Préparation de la certification *AWS GenAI Developer Pro*, conteneurisation (Docker) et déploiement d'API.
 
 ---
 
-## 💼 Expérience Professionnelle
+## 💼 Expériences Techniques
 
-### 🚄 Ingénieur IA / Alternant @ SNCF (Centre d'Ingénierie Matériel)
-*Conception et développement d'un assistant vocal embarqué (Edge AI) pour les conducteurs de train.*
-- **Le Défi :** Créer un système interactif vocal fonctionnant **100% en local (offline)** pour manipuler le DMI (Driver Machine Interface : changement de page, éclairage, climatisation).
-- **Réalisations :** - Développement et optimisation de modèles Speech-to-Text et NLU contraints par les ressources matérielles.
-  - Implémentation d'une architecture résiliente garantissant une faible latence sans dépendance au réseau externe.
-- **Enjeux :** `Edge AI`, `Inférence Locale`, `Optimisation de Modèles`, `NLP/Speech-to-Text`.
+### 🚄 Ingénieur IA (Alternance) @ SNCF (Centre d'Ingénierie Matériel)
+*Conception et développement d'un assistant vocal embarqué (Edge AI) 100% offline pour les conducteurs de train.*
+- **Enjeux :** Inférence locale, optimisation de modèles NLU/Speech-to-Text, très faible latence sans dépendance Cloud.
+- **Tech :** `Edge AI`, `Inférence Locale`, `Python`
+
+### 💡 Ingénieur IA (Stage) @ InnovQube
+*Conception d'un assistant GenAI temps réel et mise en place de pipelines de données scalables.*
+- **Backend & GenAI :** Architecture d'un assistant RAG avec **FastAPI** et **WebSockets** pour garantir une latence minimale.
+- **Data Engineering :** Développement et orchestration d'un pipeline de collecte de données via **Prefect**, avec stockage structuré sous **PostgreSQL**.
+- **Tech :** `FastAPI`, `WebSockets`, `Prefect`, `PostgreSQL`, `RAG`
 
 ---
 
