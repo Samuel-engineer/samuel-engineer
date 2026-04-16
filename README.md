@@ -28,7 +28,7 @@ Habitué à manipuler des modèles sous fortes contraintes de ressources matéri
 
 ### 💡 Ingénieur IA (Stage) @ InnovQube
 *Conception d'un assistant GenAI temps réel et mise en place de pipelines de données scalables.*
-- **Backend & GenAI :** Architecture d'un assistant RAG avec **FastAPI** et **WebSockets** pour garantir une latence minimale.
+- **Backend & GenAI :** Architecture et réalisation proto d'un assistant RAG avec **FastAPI** et **WebSockets** pour garantir une latence minimale.
 - **Data Engineering :** Développement et orchestration d'un pipeline de collecte de données via **Prefect**, avec stockage structuré sous **PostgreSQL**.
 - **Tech :** `FastAPI`, `WebSockets`, `Prefect`, `PostgreSQL`, `RAG`
 
