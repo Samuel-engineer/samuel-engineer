@@ -18,9 +18,9 @@
 
 ## 🧐 À propos de moi
 
-Actuellement en dernière année d'ingénierie **Big Data & Machine Learning à l'Efrei Paris** et en alternance chez **SNCF**. Je combine un solide bagage en ingénierie logicielle avec une expertise en Intelligence Artificielle. 
+Actuellement en dernière année d'ingénierie **Big Data & Machine Learning à l'Efrei Paris** et en alternance chez **SNCF**. Je combine un bon bagage en ingénierie logicielle avec une expertise en Intelligence Artificielle. 
 
-Habitué à manipuler des modèles sous fortes contraintes de ressources, **mon objectif est de concevoir, d'automatiser et de déployer des architectures IA scalables dans le Cloud (MLOps).**
+**mon objectif est de concevoir, d'automatiser et de déployer des architectures IA scalables dans le Cloud (MLOps).**
 
 - 🎯 **Recherche :** Opportunité en tant que Junior AI/ML Engineer orienté production et Cloud (AWS / Azure).
 - ☁️ **Focus Actuel :** Préparation de la certification *AWS GenAI Developer Pro*, conteneurisation (Docker) et déploiement d'API.
