@@ -31,7 +31,7 @@ Actuellement en dernière année d'ingénierie **Big Data & Machine Learning à 
 
 ### 🚄 Ingénieur IA (Alternance) @ SNCF (Centre d'Ingénierie Matériel)
 *Conception et développement d'un assistant vocal embarqué (Edge AI) 100% offline pour les conducteurs de train.*
-- **Enjeux :** Inférence locale, optimisation du système NLU/Speech-to-Text, faible latence sans dépendance Cloud.
+- **Enjeux :** Inférence locale, optimisation du système NLU/Speech-to-Text, faible latence local.
 - **Tech :** `Edge AI`, `Inférence Locale`, `Python`
 
 ### 💡 Ingénieur IA (Stage) @ InnovQube
