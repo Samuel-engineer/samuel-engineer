@@ -35,7 +35,7 @@ Actuellement en dernière année d'ingénierie **Big Data & Machine Learning à 
 - **Tech :** `Edge AI`, `Inférence Locale`, `Python`
 
 ### 💡 Ingénieur IA (Stage) @ InnovQube
-*Conception d'un assistant GenAI temps réel et mise en place de pipelines de données scalables.*
+*Conception d'un assistant GenAI temps réel et mise en place de pipelines de données.*
 - **Backend & GenAI :** Architecture et réalisation proto d'un assistant RAG avec **FastAPI** et **WebSockets** pour garantir une latence minimale.
 - **Data Engineering :** Développement et orchestration d'un pipeline de collecte de données via **Prefect**, avec stockage structuré sous **PostgreSQL**.
 - **Tech :** `FastAPI`, `WebSockets`, `Prefect`, `PostgreSQL`, `RAG`
