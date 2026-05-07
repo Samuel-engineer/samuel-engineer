@@ -18,7 +18,7 @@
 
 ## 🧐 À propos de moi
 
-Actuellement en dernière année d'ingénierie **Big Data & Machine Learning à l'Efrei Paris** et en alternance chez **SNCF**. Je combine un bon bagage en ingénierie logicielle avec une expertise en Intelligence Artificielle. 
+Actuellement en dernière année d'ingénierie **Big Data & Machine Learning à l'Efrei Paris** et en alternance chez **SNCF**. Je combine un solide bagage en ingénierie logicielle et en Intelligence Artificielle. 
 
 **mon objectif est de concevoir, d'automatiser et de déployer des architectures IA scalables dans le Cloud (MLOps).**
 
@@ -31,7 +31,7 @@ Actuellement en dernière année d'ingénierie **Big Data & Machine Learning à 
 
 ### 🚄 Ingénieur IA (Alternance) @ SNCF (Centre d'Ingénierie Matériel)
 *Conception et développement d'un assistant vocal embarqué (Edge AI) 100% offline pour les conducteurs de train.*
-- **Enjeux :** Inférence locale, optimisation de modèles NLU/Speech-to-Text, très faible latence sans dépendance Cloud.
+- **Enjeux :** Inférence locale, optimisation du système NLU/Speech-to-Text, faible latence sans dépendance Cloud.
 - **Tech :** `Edge AI`, `Inférence Locale`, `Python`
 
 ### 💡 Ingénieur IA (Stage) @ InnovQube
