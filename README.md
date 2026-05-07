@@ -73,15 +73,6 @@ Actuellement en dernière année d'ingénierie **Big Data & Machine Learning à 
 - **Tech :** PyTorch/TensorFlow, Computer Vision
 
 ---
-
-## 📈 Statistiques GitHub
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=samuel-engineer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=samuel-engineer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" height="165" alt="Top Languages" />
-</div>
-
----
 <div align="center">
   📬 <b>Prêt à échanger ?</b> <a href="mailto:toaly-samuel-boris.tan@efrei.net">Contactez-moi par email</a> ou sur <a href="https://www.linkedin.com/in/samuelb-tan">LinkedIn</a>.
 </div>
