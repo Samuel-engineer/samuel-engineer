@@ -73,6 +73,13 @@ Actuellement en dernière année d'ingénierie **Big Data & Machine Learning à 
 - **Tech :** PyTorch/TensorFlow, Computer Vision
 
 ---
+
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/ad780f4c-b953-4535-9402-1cee463ea50a" width="400" />
+</div>
+
+---
+
 <div align="center">
   📬 <b>Prêt à échanger ?</b> <a href="mailto:toaly-samuel-boris.tan@efrei.net">Contactez-moi par email</a> ou sur <a href="https://www.linkedin.com/in/samuelb-tan">LinkedIn</a>.
 </div>
