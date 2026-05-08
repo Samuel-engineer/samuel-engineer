@@ -1,6 +1,6 @@
 <div align="center">
   <h1>Hello, I'm Samuel TAN 🚀</h1>
-  <h3>👨‍💻 ML & GenAI Engineer | MLOps & Cloud Deployment</h3>
+  <h3>👨‍💻 ML & GenAI Engineer </h3>
   <p><em>« An ML model in a notebook is a hypothesis. An ML model in production is a solution. »</em></p>
 
   <a href="https://www.linkedin.com/in/samuelb-tan">
@@ -30,12 +30,12 @@ Actuellement en dernière année d'ingénierie **Big Data & Machine Learning à 
 ## 💼 Expériences Techniques
 
 ### 🚄 Ingénieur IA (Alternance) @ SNCF (Centre d'Ingénierie Matériel)
-*Conception et développement d'un assistant vocal embarqué (Edge AI) 100% offline pour les conducteurs de train.*
+*Conception et développement d'un prototype assistant vocal 100% offline pour les conducteurs de train.*
 - **Enjeux :** Inférence locale, optimisation du système NLU/Speech-to-Text, faible latence local.
 - **Tech :** `Edge AI`, `Inférence Locale`, `Python`
 
 ### 💡 Ingénieur IA (Stage) @ InnovQube
-*Conception d'un assistant GenAI temps réel et mise en place de pipelines de données.*
+*Conception d'un proto assistant GenAI temps réel et mise en place d'un pipelines de données.*
 - **Backend & GenAI :** Architecture et réalisation proto d'un assistant RAG avec **FastAPI** et **WebSockets** pour garantir une latence minimale.
 - **Data Engineering :** Développement et orchestration d'un pipeline de collecte de données via **Prefect**, avec stockage structuré sous **PostgreSQL**.
 - **Tech :** `FastAPI`, `WebSockets`, `Prefect`, `PostgreSQL`, `RAG`
