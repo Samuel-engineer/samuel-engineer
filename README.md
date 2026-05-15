@@ -27,7 +27,7 @@
 
 # 👨‍💻 About Me
 
-Final-year Engineering student in **Big Data & Machine Learning at EFREI Paris** and currently working as an AI Engineer apprentice at **SNCF**.
+Final-year Engineering student in **Big Data & Machine Learning at EFREI Paris** (Msc Computer science) and currently working as an AI Engineer apprentice at **SNCF**.
 
 I specialize in designing and deploying **production-ready AI systems**, combining:
 - Machine Learning
