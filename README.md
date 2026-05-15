@@ -1,85 +1,204 @@
 <div align="center">
-  <h1>Hello, I'm Samuel TAN 🚀</h1>
-  <h3>👨‍💻 ML & GenAI Engineer </h3>
-  <p><em>« An ML model in a notebook is a hypothesis. An ML model in production is a solution. »</em></p>
 
-  <a href="https://www.linkedin.com/in/samuelb-tan">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Azure_DP--100-(Data_Scientist)-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure DP-100" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Azure_AI--900-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" alt="Azure AI-900" />
-  </a>
+# Samuel TAN 🚀
+### ML Engineer • Generative AI • MLOps • Data Engineering
+
+<p>
+<em>“An ML model in a notebook is a hypothesis. An ML model in production is a solution.”</em>
+</p>
+
+<a href="https://www.linkedin.com/in/samuelb-tan">
+  <img src="https://img.shields.io/badge/LinkedIn-Samuel%20Tan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:toaly-samuel-boris.tan@efrei.net">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Azure-DP100-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Azure-AI900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Focus-MLOps%20%26%20GenAI-black?style=flat-square"/>
+
 </div>
 
 ---
 
-## 🧐 À propos de moi
+# 👨‍💻 About Me
 
-Actuellement en dernière année d'ingénierie **Big Data & Machine Learning à l'Efrei Paris** et en alternance chez **SNCF**. Je combine un solide bagage en ingénierie logicielle et en Intelligence Artificielle. 
+Final-year Engineering student in **Big Data & Machine Learning at EFREI Paris** and currently working as an AI Engineer apprentice at **SNCF**.
 
-**mon objectif est de concevoir, d'automatiser et de déployer des architectures IA scalables dans le Cloud (MLOps).**
+I specialize in designing and deploying **production-ready AI systems**, combining:
+- Machine Learning
+- Generative AI
+- Data Engineering
+- Cloud & MLOps
 
-- 🎯 **Recherche :** Opportunité en tant que Junior AI/ML Engineer orienté production et Cloud (AWS / Azure).
-- ☁️ **Focus Actuel :** Préparation de la certification *AWS GenAI Developer Pro*, conteneurisation (Docker) et déploiement d'API.
-
----
-
-## 💼 Expériences Techniques
-
-### 🚄 Ingénieur IA (Alternance) @ SNCF (Centre d'Ingénierie Matériel)
-*Conception et développement d'un prototype assistant vocal 100% offline pour les conducteurs de train.*
-- **Enjeux :** Inférence locale, optimisation du système NLU/Speech-to-Text, faible latence local.
-- **Tech :** `Edge AI`, `Inférence Locale`, `Python`
-
-### 💡 Ingénieur IA (Stage) @ InnovQube
-*Conception d'un proto assistant GenAI temps réel et mise en place d'un pipelines de données.*
-- **Backend & GenAI :** Architecture et réalisation proto d'un assistant RAG avec **FastAPI** et **WebSockets** pour garantir une latence minimale.
-- **Data Engineering :** Développement et orchestration d'un pipeline de collecte de données via **Prefect**, avec stockage structuré sous **PostgreSQL**.
-- **Tech :** `FastAPI`, `WebSockets`, `Prefect`, `PostgreSQL`, `RAG`
+My goal is to build scalable AI architectures that move beyond notebooks into real-world applications.
 
 ---
 
-## 🛠️ Stack Technique & MLOps
+# 🚄 Professional Experience
+
+## AI Engineer Apprentice — SNCF
+### *Engineering & Railway Operations Division*
+
+Development of a **fully offline voice assistant prototype** designed for train drivers.
+
+### Key Contributions
+- Local AI inference optimization
+- Speech-to-Text & NLU system integration
+- Low-latency edge AI architecture
+- Production-oriented AI experimentation
+
+### Tech Stack
+`Python` `Edge AI` `Speech-to-Text` `Offline Inference`
+
+---
+
+## AI Engineer Intern — InnovQube
+
+Design and implementation of a **real-time GenAI assistant** and scalable data pipelines.
+
+### Key Contributions
+- Development of a RAG-based assistant using FastAPI & WebSockets
+- Real-time communication architecture
+- Data pipeline orchestration with Prefect
+- Structured PostgreSQL storage and ingestion workflows
+
+### Tech Stack
+`FastAPI` `RAG` `WebSockets` `PostgreSQL` `Prefect` `Generative AI`
+
+---
+
+# 🛠️ Technical Stack
 
 <div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,scikitlearn,aws,azure,docker,fastapi,postgres,mongodb,git,github&perline=6" alt="Tech Stack" />
-  </a>
-  <br>
-  <p><i>NLP, Computer Vision, LLMs (Hugging Face, LangChain), PySpark, CI/CD</i></p>
+
+<img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,fastapi,docker,aws,azure,postgres,mongodb,git,github&perline=6"/>
+
 </div>
 
+## Core Skills
+
+### AI & Machine Learning
+- Machine Learning
+- Deep Learning
+- NLP
+- LLM Fine-Tuning
+- Embeddings
+- Computer Vision
+- Generative AI
+
+### Data & Backend
+- FastAPI
+- PostgreSQL
+- MongoDB
+- PySpark
+- Data Pipelines
+- Streaming Data
+
+### MLOps & Cloud
+- Docker
+- CI/CD
+- ML Pipelines
+- AWS
+- Azure
+- Model Deployment
+
 ---
 
-## 🚀 Projets Phares
-
-### ☁️ [AWS GenAI & LLMs Exploration](https://github.com/samuel-engineer/aws-genai-pro-prep)
-*Développement, expérimentation et bonnes pratiques autour de l'IA Générative sur l'écosystème AWS.*
-- **Tech :** AWS, LLMs, Python
-
-### 💳 [Détection de Fraude Bancaire (Vers la Production)](https://github.com/samuel-engineer/Credit-Fraud-Detection)
-*Modélisation prédictive sur des données financières déséquilibrées. (En cours d'évolution vers une architecture MLOps).*
-- **Tech :** Machine Learning, Python, Scikit-Learn
-
-### 📝 [NLP : Classification de Mails & Textes](https://github.com/samuel-engineer/Text-Mail-Classifcation-NLP)
-*Pipeline de Traitement du Langage Naturel pour catégoriser automatiquement des flux de textes.*
-- **Tech :** NLP, Scikit-Learn, Transformers
-
-### 👁️ [Computer Vision : Classification de Documents](https://github.com/samuel-engineer/Classification-d-image-documents)
-*Modèles de Deep Learning appliqués à la vision par ordinateur pour le traitement documentaire.*
-- **Tech :** PyTorch/TensorFlow, Computer Vision
+# 🚀 Featured Projects
 
 ---
+
+## ⚡ Real-Time Data Pipeline Platform
+### 🔗 https://github.com/Samuel-engineer/realtime_data
+
+Production-oriented real-time data pipeline architecture focused on scalable streaming and data engineering workflows.
+
+### Highlights
+- Real-time ingestion & processing
+- Streaming architecture
+- Data workflow automation
+- Scalable engineering approach
+
+### Stack
+`Python` `Streaming` `Docker` `Data Engineering`
+
+---
+
+## 🏭 Predictive Maintenance MLOps Pipeline
+### 🔗 https://github.com/Samuel-engineer/maintenance_mlops
+
+End-to-end MLOps pipeline for predictive maintenance use cases.
+
+### Highlights
+- Industrial ML workflow
+- Model lifecycle management
+- Pipeline automation
+- Production-ready ML architecture
+
+### Stack
+`Python` `MLOps` `Docker` `CI/CD` `Machine Learning`
+
+---
+
+## 🧠 LLM Fine-Tuning & Embeddings
+### 🔗 https://github.com/Samuel-engineer/Fine-tuning-model-embedding
+
+Experimentation around fine-tuning language models and optimizing vector embeddings for semantic retrieval tasks.
+
+### Highlights
+- LLM fine-tuning
+- Embedding optimization
+- Semantic search
+- Retrieval experimentation
+
+### Stack
+`LLMs` `Hugging Face` `Embeddings` `NLP`
+
+---
+
+## 🔄 CI/CD Automation Pipeline
+### 🔗 https://github.com/Samuel-engineer/cicd
+
+Implementation of CI/CD workflows for automated testing, deployment and scalable engineering practices.
+
+### Highlights
+- Automated deployment pipelines
+- CI/CD workflows
+- DevOps integration
+- Production deployment practices
+
+### Stack
+`GitHub Actions` `Docker` `CI/CD` `DevOps`
+
+---
+
+# 📈 Current Focus
+
+- AWS Generative AI
+- Production AI Systems
+- LLM Engineering
+- Cloud-native MLOps
+- Real-time AI applications
+
+---
+
+# 📬 Contact
 
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/ad780f4c-b953-4535-9402-1cee463ea50a" width="400" />
-</div>
 
----
+### Let's build production-ready AI systems.
 
-<div align="center">
-  📬 <b>Prêt à échanger ?</b> <a href="mailto:toaly-samuel-boris.tan@efrei.net">Contactez-moi par email</a> ou sur <a href="https://www.linkedin.com/in/samuelb-tan">LinkedIn</a>.
+<a href="mailto:toaly-samuel-boris.tan@efrei.net">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/samuelb-tan">
+  <img src="https://img.shields.io/badge/LinkedIn-Samuel%20Tan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </div>
