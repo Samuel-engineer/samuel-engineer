@@ -1,42 +1,111 @@
 <div align="center">
 
-# Samuel TAN 🚀
-### ML Engineer • Generative AI • MLOps • Data Engineering
+# Hi there, I'm Samuel TAN 👋
+### AI / ML Engineer • Generative AI & Multi-Agent Systems • MLOps
 
-<p>
-<em>“An ML model in a notebook is a hypothesis. An ML model in production is a solution.”</em>
+<p align="center">
+  <em>“An ML model in a notebook is a hypothesis. An ML model in production is a solution.”</em>
 </p>
 
-<a href="https://www.linkedin.com/in/samuelb-tan">
+<!-- Badges Réseaux & Contact -->
+<a href="https://www.linkedin.com/in/samuelb-tan" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-Samuel%20Tan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="mailto:toaly-samuel-boris.tan@efrei.net">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:samuel-tan@outlook.fr">
+  <img src="https://img.shields.io/badge/Email-samuel--tan%40outlook.fr-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/Samuel-engineer">
+  <img src="https://img.shields.io/badge/GitHub-Samuel--engineer-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Azure-DP100-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Azure-AI900-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
-<img src="https://img.shields.io/badge/Focus-MLOps%20%26%20GenAI-black?style=flat-square"/>
+<!-- Certifications -->
+<img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20Data%20Scientist%20(DP--100)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Certified-Azure%20AI%20Fundamentals%20(AI--900)-0078D4?style=flat-square&logo=microsoftazure&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS%20(In%20Prep)-Generative%20AI%20Developer%20Professional-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 
 </div>
 
 ---
 
-# 📬 Contact
+### 👨‍💻 About Me
+
+- 🎓 **Graduate Engineering Student** in *Big Data & Machine Learning* at **EFREI Paris** (Alumnus CPGE MPSI/MP*).
+- 🤖 **Focus & Expertise :** Generative AI (LLMs, RAG, Multi-Agent systems with CrewAI/LangChain) and End-to-End MLOps pipelines.
+- 🚆 **Experience :** Built low-latency local voice AI assistants for train drivers (**SNCF Voyageurs**) and full-stack RAG chatbots (**Innov Qube**).
+- 🏆 **Honors :** Honorable Mention at the Pan-African Mathematics Olympiad (PAMO).
+- 🎸 **Outside Tech :** Competitive Data Challenges (IA PAU), Tech Blogging & Guitarist.
+
+---
+
+### 🛠️ Tech Stack & Tooling
 
 <div align="center">
 
-### Let's build production-ready AI systems.
+| Domain | Technologies & Frameworks |
+| :--- | :--- |
+| **Generative AI & LLMs** | `LangChain` `CrewAI` `Hugging Face` `Ollama` `Whisper` `RAG Architecture` `Tool Calling` |
+| **Machine Learning & Deep Learning** | `PyTorch` `Scikit-Learn` `Pandas` `NumPy` |
+| **MLOps & CI/CD** | `MLflow` `Docker` `Prefect` `GitHub Actions` `Linux` |
+| **Cloud & Distributed** | `AWS (Bedrock, Lambda, S3)` `Azure (AI Foundry)` |
+| **Backend & Databases** | `Python` `FastAPI` `PostgreSQL` `WebSockets` `Laravel` |
 
-<a href="mailto:toaly-samuel-boris.tan@efrei.net">
-  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+</div>
 
-<a href="https://www.linkedin.com/in/samuelb-tan">
-  <img src="https://img.shields.io/badge/LinkedIn-Samuel%20Tan-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
+<br>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,docker,aws,azure,postgres,fastapi,git,linux,githubactions&theme=dark" />
+</p>
+
+---
+
+### 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🤖 Market Research Studio</h3>
+      <p align="center">
+        Multi-agent market intelligence assistant orchestrating research, financial/trend analysis, and synthesis via autonomous web search.
+      </p>
+      <p align="center">
+        <code>Python</code> <code>CrewAI</code> <code>Azure AI Foundry</code> <code>GPT-4o</code> <code>Streamlit</code>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">⚙️ End-to-End Predictive Maintenance</h3>
+      <p align="center">
+        Full production MLOps pipeline for industrial predictive maintenance, featuring model drift monitoring, metric evaluations, and automated deployment.
+      </p>
+      <p align="center">
+        <code>MLflow</code> <code>Docker</code> <code>FastAPI</code> <code>Scikit-Learn</code> <code>React</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 GitHub Analytics
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Samuel-engineer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-engineer&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
+</div>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samuel-engineer&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect & Build Production-Ready AI
+
+[![LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuelb-tan)
+[![Email](https://img.shields.io/badge/Send_an_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuel-tan@outlook.fr)
 
 </div>
