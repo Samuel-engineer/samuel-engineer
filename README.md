@@ -33,7 +33,6 @@
 
 - 🎓 **Graduate Engineering Student** in *Big Data & Machine Learning* at **EFREI Paris** (Alumnus CPGE MPSI/MP*).
 - 🤖 **Focus & Expertise :** Generative AI (LLMs, RAG, Multi-Agent systems with CrewAI/LangChain) and End-to-End MLOps pipelines.
-- 🚆 **Experience :** Built low-latency local voice AI assistants for train drivers (**SNCF Voyageurs**) and full-stack RAG chatbots (**Innov Qube**).
 - 🏆 **Honors :** Honorable Mention at the Pan-African Mathematics Olympiad (PAMO).
 - 🎸 **Outside Tech :** Competitive Data Challenges (IA PAU), Tech Blogging & Guitarist.
 
@@ -49,7 +48,7 @@
 | **Machine Learning & Deep Learning** | `PyTorch` `Scikit-Learn` `Pandas` `NumPy` |
 | **MLOps & CI/CD** | `MLflow` `Docker` `Prefect` `GitHub Actions` `Linux` |
 | **Cloud & Distributed** | `AWS (Bedrock, Lambda, S3)` `Azure (AI Foundry)` |
-| **Backend & Databases** | `Python` `FastAPI` `PostgreSQL` `WebSockets` `Laravel` |
+| **Backend & Databases** | `Python` `FastAPI` `PostgreSQL` `WebSockets` |
 
 </div>
 
@@ -89,11 +88,6 @@
 ---
 
 ### 📊 GitHub Analytics
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Samuel-engineer&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Samuel-engineer&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" />
-</div>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Samuel-engineer&theme=tokyonight&hide_border=true" />
